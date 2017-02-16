@@ -4,5 +4,5 @@
 
 # Setup
 
-1. Set up (Serverless)[https://serverless.com/].
+1. Set up [Serverless](https://serverless.com/).
 2. deploy with `serverless deploy -r [region] -s [stage]`
