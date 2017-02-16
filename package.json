@@ -1,0 +1,11 @@
+{
+    "name": "Jalluinfo",
+    "description": "gets info about jaloviina 1t 0.5l",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "needle":"*",
+        "htmlparser":"*"
+    }
+}
